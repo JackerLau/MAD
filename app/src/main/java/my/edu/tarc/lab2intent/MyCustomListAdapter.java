@@ -36,7 +36,7 @@ public class MyCustomListAdapter extends ArrayAdapter<Dog> {
 
         TextView textViewName = view.findViewById(R.id.textViewName);
         TextView textViewProfile = view.findViewById(R.id.textViewProfile);
-        ImageView imageView = view.findViewById(R.id.imageView);
+        ImageView imageView = view.findViewById(R.id.imageViewDog);
 
 
 
